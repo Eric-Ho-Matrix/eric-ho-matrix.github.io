@@ -10,4 +10,4 @@ When people make decision, they tend to take many features into consideration. M
 
 This decision-making process lead to an interesting question and is the main concern of scientists relates to cognitive science, computational neuroscience and reinforcement learning in computer science: When should we build a new state-action mapping and when should we update the current state-action mapping?
 
-In this project, we proposed a biologically plausible cortico-basal ganglia (BG) model to address this question and we tested our model on a human behavior data. This project is conducted by the members in Learning Memory & Decision Lab in Brown University. More details and pictures are coming soon aftwe we submit the paper in 2 months.
+In this project, we proposed a biologically plausible cortico-basal ganglia (BG) model to address this question and we tested our model on human behavior data. This project is conducted by the members in Learning Memory & Decision Lab in Brown University. More details and pictures are coming soon aftwe we submit the paper in 2 months.
