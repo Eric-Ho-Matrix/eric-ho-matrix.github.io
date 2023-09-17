@@ -51,7 +51,7 @@ Skills
   * Tensorflow
   * Deep Learning
   * Reinforcement Learning
-  * Model Predict Control
+  * MPC
 * C++
   * Object Oriented Programming
   * Class and Template
@@ -59,6 +59,7 @@ Skills
   * Numerical Methods
   * Fuzzy Control
   * Simulink
+* ROS
 * Cadence
 * Labview
 * Keil
